@@ -1,0 +1,11 @@
+{
+  "org": "dry-python",
+  "repo": "returns",
+  "versions": [
+    {
+      "commit": "c60e1d8c51dee62efc2a7159946aab8c2393bc0e",
+      "tag": "",
+      "parsed_at": "2026-10-17T22:54:53.206265+00:00"
+    }
+  ]
+}
